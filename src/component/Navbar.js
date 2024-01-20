@@ -1,6 +1,7 @@
 import Logo from '../Images/LogoNavbar.png'
 const Navbar=()=>{
 return(<>
+  <div className=' bg-gray-200'>
   <div className=' h-12 bg-white relative top-4 mx-2 mb-2 rounded-full flex justify-between items-center px-2 md:max-w-1000 md:mx-auto '>
     <div className='flex items-center'>
         <div className=' max-w-7 rounded-3xl mr-[2px]'><img src={Logo} /></div>
@@ -12,6 +13,7 @@ return(<>
     </div>
 
 
+  </div>
   </div>
  
        </>)
