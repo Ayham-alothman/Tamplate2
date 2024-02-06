@@ -1,5 +1,6 @@
 import Navbar from "./component/Navbar";
 import Section from "./component/Section";
+import Future from "./component/Future";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
      <div className=" h-heightscroll bg-gray-100">
       <Navbar/>
       <Section/>
+      <Future/>
 
      </div>
 
