@@ -1,7 +1,7 @@
 import { VscArrowCircleRight } from "react-icons/vsc";
 const Future=()=>{
     return(<>
-    <div className=" mt-16 h-auto py-6 px-3 ">
+    <div className=" mt-16 h-auto py-6 px-16 ">
         <div className=" mb-8 md:text-center md:mb-16">
             <h6 className=" text-PrimaryColor font-normal leading-7">Your Own AI Chatbot</h6>
             <h1 className=" font-bold text-2xl leading-7 mb-2   ">The Future of Conversational AI</h1>

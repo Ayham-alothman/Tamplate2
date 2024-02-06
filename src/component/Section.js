@@ -1,6 +1,6 @@
 const Section=()=>{
     return(<>
-    <div className=" h-96 py-20">
+    <div className=" h-96 py-32 ">
         <div className=" text-center">
         <h1 className=" text-3xl font-bold">Infy<span className=" text-PrimaryColor">GPT</span></h1>
         <h1 className=" text-3xl font-bold">for providing better user experiences</h1>
